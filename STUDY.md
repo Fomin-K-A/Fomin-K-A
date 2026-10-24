@@ -7,3 +7,4 @@
 | 3 | Конвертер чисел | Перевод чисел в разные системы счисления | C++ | [GitHub](https://github.com/Fomin-K-A/cpp-number-base-converter) |
 | 4 | День недели | Вычислить день недели по дате | C++ | [GitHub](https://github.com/Fomin-K-A/cpp-day-of-week) |
 | 5 | Календарь | Вывести календарь для года/месяца | C++ | [GitHub](https://github.com/Fomin-K-A/cpp-calendar) |
+| 6 | Калькулятор матриц | Найти определитель/обратную матрицу | C++ | [GitHub](https://github.com/Fomin-K-A/cpp-matrixCalc) |
