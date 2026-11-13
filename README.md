@@ -1,5 +1,17 @@
 # Константин Фомин
 
+[![Codewars](https://www.codewars.com/users/Fomin_Konstantin/badges/small)](https://www.codewars.com/users/Fomin_Konstantin)
+
+---
+
+## 📬 Контакты
+
+| | |
+|---|---|
+| 📱 **Телефон** | [+7 905 265-50-33](tel:+79052655033) |
+| ✉️ **Почта** | [fomin.konstantin.04@mail.ru](mailto:fomin.konstantin.04@mail.ru) |
+| 💬 **Телеграм** | [@kfom_in](https://t.me/kfom_in) |
+
 ---
 
 ## О себе
